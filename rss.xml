@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Slow Down Eating for Better Health]]></title>
         <description><![CDATA[Slow Down Eating for Better Health]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gominute/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 21:35:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 21:35:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gominute/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5bfe8b1-f7bc-48e8-85b2-71594fc83bd2.jpg">]]></description>
+            <link>https://thegrid.ai/gominute/78e01957-90b1-4721-8a24-0d873e429cd0/index.html</link>
+            <guid isPermaLink="false">78e01957-90b1-4721-8a24-0d873e429cd0</guid>
+            <pubDate>Sun, 07 Feb 2016 20:49:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/441c6774-73ee-4aaa-bf5e-710685798e42.jpg">]]></description>
-            <link>undefined1ea6ad90-09da-4484-9e63-b0909d6a03d4/index.html</link>
+            <link>https://thegrid.ai/gominute/1ea6ad90-09da-4484-9e63-b0909d6a03d4/index.html</link>
             <guid isPermaLink="false">1ea6ad90-09da-4484-9e63-b0909d6a03d4</guid>
             <pubDate>Sun, 07 Feb 2016 20:47:00 GMT</pubDate>
         </item>
